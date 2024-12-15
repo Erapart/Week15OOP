@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malle\\source\\repos\\Week15OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B405EBDD-9E71-448C-A856-00243511E2C3}|Week15OOP\\Week15OOP.csproj|c:\\users\\malle\\source\\repos\\week15oop\\week15oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B405EBDD-9E71-448C-A856-00243511E2C3}|Week15OOP\\Week15OOP.csproj|solutionrelative:week15oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malle\\source\\repos\\Week15OOP\\Week15OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Week15OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\malle\\source\\repos\\Week15OOP\\Week15OOP\\Program.cs",
+              "RelativeToolTip": "Week15OOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:01:49.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
